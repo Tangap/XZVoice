@@ -27,9 +27,9 @@ class AlibabaAPI {
 			this.appkey = keyObj.appkey;
 		}else{ 
 			console.log('---------使用内部key----------')
-			this.AccessKeyId = 'LTAI5tGoeh8FNEyFFhpv5zS8';
-			this.AccessKeySecret = 'aJdg6uMirbs0E5h6O0dji4OAebG6cg';
-			this.appkey = 'fgwyXpmsIAqMqGqu';
+			this.AccessKeyId = '';
+			this.AccessKeySecret = '';
+			this.appkey = '';
 			
 		}
 	}
